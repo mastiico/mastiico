@@ -1,8 +1,5 @@
-    🛒 - Learning Js.                                                                                       🔑 - 17y.
-    
-
-                                                         𝘌𝘴𝘵𝘶𝘥𝘢𝘯𝘥𝘰 𝘺 𝘢𝘧𝘪𝘯𝘴 🤬
-                                                               𝘎𝘢𝘵𝘰 🌟
-
+    🛒 - Learning Js.                🔑 - 17y.
+                           🌻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastiico&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
