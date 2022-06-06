@@ -1,6 +1,6 @@
-🛒 - Learning Js.  
+🛒 - Learning
               
- 🔑 - 17y. 
+ 🔑 - 17y
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=mastiico&hide=html&layout=compact&theme=dark)](https://github.com/iuricode/)
 
