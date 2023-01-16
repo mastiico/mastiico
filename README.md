@@ -22,12 +22,6 @@
 <a href = "https://github.com/mastiico"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank">
 <a href = "https://github.com/mastiico"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank">
 
-## 🕸 Languages
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastiico&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 
