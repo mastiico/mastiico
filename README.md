@@ -1,7 +1,6 @@
 ## Opa! Me chamo Marcio Filho
 
 - 📅 18y
-- 💼 Procurando Jobs
 - 💡 Estudante de Desenvolvimento de Software
 
 ## 📱**Contatos**
