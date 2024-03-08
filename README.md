@@ -2,9 +2,8 @@
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](link_para_seu_perfil_no_github) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/marciofilho2004/)
 
-##( Sobre mim
-Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Tenho experiência em diversas linguagens de programação e tecnologias, e estou sempre em busca de aprender mais e aprimorar minhas habilidades.
-
+## Sobre mim
+O que dizer sobre mim? kkkkkkk, mano, programo por paixão, pois se fosse por dinheiro estaria na rua rs
 ### Linguagens de Programação
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
