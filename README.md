@@ -1,7 +1,5 @@
 # Olá, eu sou o Marcio! 👋💻
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](link_para_seu_perfil_no_github) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/marciofilho2004/)
-
 ## Sobre mim
 O que dizer sobre mim? kkkkkkk, mano, programo por paixão, pois se fosse por dinheiro estaria na rua rs
 ### Linguagens de Programação
