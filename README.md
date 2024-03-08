@@ -21,3 +21,5 @@ O que dizer sobre mim? kkkkkkk, mano, programo por paixão, pois se fosse por di
 
 ### Testes
 - ![JUnit 5](https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white) ![Mockito](https://img.shields.io/badge/Mockito-EE4622?style=for-the-badge&logo=mockito&logoColor=white) ![RestAssured](https://img.shields.io/badge/RestAssured-000000?style=for-the-badge&logo=rest-assured&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mastiico&layout=compact)
