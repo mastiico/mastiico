@@ -1,7 +1,8 @@
 # Olá, eu sou o Marcio! 👋💻
 
 ## Sobre mim
-O que dizer sobre mim? kkkkkkk, mano, programo por paixão, pois se fosse por dinheiro estaria na rua rs
+Louco e sonhador
+
 ### Linguagens de Programação
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
