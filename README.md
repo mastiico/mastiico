@@ -1,11 +1,11 @@
 # Olá, eu sou o Marcio! 👋💻
 
-## draw my life ✏️
-Tenho 19 anos e comecei essa jornada de dev quando criei meu servidor de minecraft, tive a apaixão de criança pelo JAVAAA, porém fui aquele menino bobo, montei o servidor e depois deixei de lado rsrs, criança né! (parei com 13)
+## About Me ✏️
+Minha jornada de desenvolvimento teve início aos 11 anos, quando criei meu servidor de Minecraft. Naquela época, minha paixão por Java era apenas um interesse infantil que logo deixei de lado (parei aos 13 anos).
 
-Logo depois, fui me aventurar no web fullstack, foi onde aprendi sobre, JS, TS, HTML, CSS, REACT, MONGODB, acabei realizando um curso e parei na metade. (parei com 16)
+Posteriormente, mergulhei no universo do desenvolvimento web fullstack, aprendendo sobre JS, TS, HTML, CSS, React e MongoDB por meio de um curso que infelizmente não concluí (parei aos 16 anos).
 
-Quando fiz meus 18 anos fiquei um pouco sem rumo, apesar de já está fazendo um curso técnico porém parei o técnico e engressei na faculdade de ADS, no técnico eu aprendi mais sobre o JAVA e voltou minha paxonite na linguagem, onde estudo até hoje (19 anos)
+Ao completar 18 anos, mesmo cursando uma formação técnica, me senti um pouco perdido. Foi então que decidi ingressar na faculdade de Análise e Desenvolvimento de Sistemas (ADS), onde redescobri minha paixão pelo Java, graças ao conhecimento adquirido durante o curso técnico. Desde então, tenho me dedicado ao estudo dessa linguagem (atualmente, com 19 anos).
 
 ### Linguagens de Programação
 - <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
