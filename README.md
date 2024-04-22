@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcio! 👋💻
 
-## draw minha vida ✏️
+## draw my life ✏️
 Tenho 19 anos e comecei essa jornada de dev quando criei meu servidor de minecraft, tive a apaixão de criança pelo JAVAAA, porém fui aquele menino bobo, montei o servidor e depois deixei de lado rsrs, criança né! (parei com 13)
 
 Logo depois, fui me aventurar no web fullstack, foi onde aprendi sobre, JS, TS, HTML, CSS, REACT, MONGODB, acabei realizando um curso e parei na metade. (parei com 16)
