@@ -3,10 +3,6 @@
 ## About Me ✏️
 Minha jornada de desenvolvimento teve início aos 11 anos, quando criei meu servidor de Minecraft. Naquela época, minha paixão por Java era apenas um interesse infantil que logo deixei de lado (parei aos 13 anos).
 
-Posteriormente, mergulhei no universo do desenvolvimento web fullstack, aprendendo sobre JS, TS, HTML, CSS, React e MongoDB por meio de um curso que infelizmente não concluí (parei aos 16 anos).
-
-Ao completar 18 anos, mesmo cursando uma formação técnica, me senti um pouco perdido. Foi então que decidi ingressar na faculdade de Análise e Desenvolvimento de Sistemas (ADS), onde redescobri minha paixão pelo Java, graças ao conhecimento adquirido durante o curso técnico. Desde então, tenho me dedicado ao estudo dessa linguagem (atualmente, com 19 anos).
-
 ### Linguagens de Programação
 - <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 
