@@ -1,8 +1,5 @@
 # Olá, eu sou o Marcio! 👋💻
 
-## About Me ✏️
-Minha jornada de desenvolvimento teve início aos 11 anos, quando criei meu servidor de Minecraft. Naquela época, minha paixão por Java era apenas um interesse infantil que logo deixei de lado (parei aos 13 anos).
-
 ### Linguagens de Programação
 - <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 
