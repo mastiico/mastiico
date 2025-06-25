@@ -1,9 +1,5 @@
 # 👋 Olá, eu sou o Marcio Filho!
 
-<div align="center">
-  <h3>💻 Desenvolvedor Backend Pleno | Soluções Robustas & Escaláveis</h3>
-</div>
-
 ```javascript
 const marcioFilho = {
     cargo: "Desenvolvedor Backend Pleno",
