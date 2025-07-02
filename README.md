@@ -5,7 +5,7 @@ const marcioFilho = {
     cargo: "Desenvolvedor Backend Pleno",
     foco: ["Soluções Escaláveis", "Arquitetura Robusta", "Clean Code"],
     aprendizadoContinuo: true,
-    filosofia: "Funciona na minha máquina ¯\_(ツ)_/¯"
+    filosofia: "No postman funciona ¯\_(ツ)_/¯"
 };
 ```
 
