@@ -1,5 +1,3 @@
-# olá
-
 Dev backend. Comecei aos 12 escrevendo plugin de servidor de Minecraft em Java; hoje pago as contas com Node.
 
 ### Stack
