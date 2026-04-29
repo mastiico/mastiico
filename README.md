@@ -1,7 +1,7 @@
 Dev backend. Comecei aos 12 escrevendo plugin de servidor de Minecraft em Java; hoje pago as contas com Node.
 
 ### Stack
-**Linguagens:** TypeScript, JavaScript, Python, Java, C#  
+**Linguagens:** TypeScript, JavaScript, Python, Java, C++
 **Backend:** Node.js, NestJS, Express, FastAPI, Spring Boot  
 **Frontend:** React, Vite, Tailwind, Framer Motion  
 **Dados & mensageria:** PostgreSQL, MySQL, Redis, RabbitMQ  
